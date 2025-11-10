@@ -1,0 +1,14 @@
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.3.2
+joblib
+python-dotenv
+python-multipart
+groq
+sentence-transformers
+torch
+lightgbm
+fastapi
+uvicorn
+jinja2
+websockets
